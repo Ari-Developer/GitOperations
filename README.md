@@ -8,8 +8,7 @@ How to works with github
 |-----------------------------------------------------------
 | Name : Arindam Roy
 | Email: arindam.roy.developer@gmail.com
-|------------------------------------------------------------
-|
+
 
 
 |HOW TO WORK WITH GITHUB
