@@ -1,0 +1,16 @@
+
+
+| Author Information
+|-----------------------------------------------------------
+| Name : Arindam Roy
+| Email: arindam.roy.developer@gmail.com
+|------------------------------------------------------------
+|
+
+
+|HOW TO WORK WITH GITHUB
+|------------------------------------------------------------
+
+STEP 1 : First you download the git command interface from the url https://git-scm.com
+
+STEP 2 : 
