@@ -11,6 +11,12 @@
 |HOW TO WORK WITH GITHUB
 |------------------------------------------------------------
 
-STEP 1 : First you download the git command interface from the url https://git-scm.com
+STEP 1 : First you download the git command interface software from the url https://git-scm.com
 
-STEP 2 : 
+STEP 2 : After download, install the software
+
+STEP 3 : Now go to https://github.com and create your account, fillup all required details.
+
+STEP 4 : Create your repo or repository within the github account.
+
+STEP 5 :
