@@ -35,4 +35,7 @@ STEP 7 : For upload your projects to github - Now Command Starts
 		8. git push origin master
 
 
-SEPT 8 :  
+SEPT 8 : For download any project from github - Now Command Starts
+
+		1. git clone YOUR-REPO-URL
+		2. git pull origin master
