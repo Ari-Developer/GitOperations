@@ -32,7 +32,7 @@ STEP 7 : For upload your projects to github - Now Command Starts
 		2. git config --global user.name "YOUR-NAME"
 		3. git config --global user.email "YOUR-EMAIL-ID"
 		4. git status
-		5. git add -A
+		5. git add .
 		6. git commit -m "YOUR-COMMIT-MSG-NAME"
 		7. git remote add origin YOUR-REPO-URL
 		8. git push origin master
